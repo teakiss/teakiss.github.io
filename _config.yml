@@ -20,7 +20,7 @@ title                    : "sui_git_blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "teakiss"
-description              : "An amazing website."
+description              : "sui makes this."
 url                      : "https://teakiss.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
